@@ -1,1 +1,2 @@
-0. testy GitHub
+0. testy online GitHub
+1. dodaje linijke github online

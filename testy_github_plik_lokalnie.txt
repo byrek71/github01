@@ -1,1 +1,2 @@
 0. plik stworzony lokalnie
+1. edycja branch main

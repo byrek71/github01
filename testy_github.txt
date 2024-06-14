@@ -1,4 +1,5 @@
 0. testy kompi online GitHub
-1. linijka dodana na kompie lokalnie oraz online i merging zrobiony
+1. linijka dodana na kompie ***Lokanie branch komp01*** lokalnie oraz online i merging zrobiony
+2. linijka dodana lokalnie w branch komp01
 
 

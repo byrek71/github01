@@ -1,1 +1,2 @@
-0. testy GitHub
+0. testy komp lokalnie GitHub
+1. linijka dodana na kompie lokalnie
